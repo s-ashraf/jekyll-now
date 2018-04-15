@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about my ass!
 
-![](images/lakehouse.jpg)
+![](/images/lakehouse.jpg)
 
 ### More Information
 
